@@ -14,6 +14,6 @@ This repository consists of presentations and links to previous talk material. Y
 
 |Talk No| Name | Date of presentation | Links | Related Topics |
 |--|--|--|--|--|
-| 1 | Somnath | 5-Sept-2020 |  |  |
+| 1 | Somnath | 5-Sept-2020 | <a href="/ppts/Talk1.pptx">multiple attached in ppt</a> | 3D Computer Vision |
 | 2 | |  |  | |
 
