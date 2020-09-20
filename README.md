@@ -16,4 +16,6 @@ This repository consists of presentations and links to previous talk material. Y
 |--|--|--|--|--|
 | 1 | Somnath | 5-Sept-2020 | <a href="/ppts/Talk1.pptx">multiple attached in ppt</a> | 3D Computer Vision |
 | 2 | Luv Bansal | 12-sept-2020 | <a href="https://github.com/luv-bansal/ML-talks/tree/master/GTP-3">GPT-3</a> | GPT-3|
+| 3 | Aman Mishra | 19-sept-2020 | <a href="https://github.com/Amanmishra267/ML-talks/blob/master/ppts/Talk3.pptx">paper link in ppt</a> | On video processing and action detection|
+
 
