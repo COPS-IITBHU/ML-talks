@@ -17,4 +17,4 @@ This repository consists of presentations and links to previous talk material. Y
 | 1 | Somnath | 5-Sept-2020 | <a href="/ppts/Talk1.pptx">multiple attached in ppt</a> | 3D Computer Vision |
 | 2 | Luv Bansal | 12-sept-2020 | <a href="https://github.com/luv-bansal/ML-talks/tree/master/GPT-3">GPT-3</a> | GPT-3|
 | 3 | Aman Mishra | 19-sept-2020 | <a href="https://github.com/Amanmishra267/ML-talks/blob/master/ppts/Talk3.pptx">paper link in ppt</a> | On video processing and action detection|
-| 4 | Vikhyath Venkatraman | 21-Oct-2020 | <a href="https://www.notion.so/Reinforcement-Learning-Resources-03ee1de9b7114693896e8a88e61a7360">Notion Link to Resources</a> | An Introduction to Reinforcement Learning |
+| 4 | Vikhyath Venkatraman | 10-Oct-2020 | <a href="https://www.notion.so/Reinforcement-Learning-Resources-03ee1de9b7114693896e8a88e61a7360">Notion Link to Resources</a> | An Introduction to Reinforcement Learning |
