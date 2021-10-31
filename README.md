@@ -27,4 +27,6 @@ This repository consists of presentations and links to previous talk material. Y
 ### Session 2021
 |Talk No| Name | Date of presentation | Links | Related Topics |
 |--|--|--|--|--|
-| 1 | Aditya Kumar | 30-Sept-2021 | <a href="https://docs.google.com/presentation/d/16tIy21GmAXz72i0ZIg_VxwpyU7JR8cZ7P1Bwe4Sb_pk/edit?usp=sharing">Presentation Doc</a> | Text-To-Speech Synthesis Systems|
+| 1 | Aditya Kumar | 30-Sept-2021 | <a href="https://docs.google.com/presentation/d/16tIy21GmAXz72i0ZIg_VxwpyU7JR8cZ7P1Bwe4Sb_pk/edit?usp=sharing">Presentation</a> | Text-To-Speech Synthesis Systems|
+| 2 | Aman Mishra | 07-Oct-2021 | <a href="https://docs.google.com/presentation/d/1MoVkUxinWo_Lc2SaEnM9uaK1AJu0-k_ehbpURJs67q0/edit?usp=sharing">Presentation</a> | Scope of Bayesian Formulations|
+| 3 | Yash Sahijwani | 21-Oct-2021 | <a href="https://docs.google.com/presentation/d/1Af4YfdPtWNKF7gP3kb7BBs5Gjlk1tF9zEmKwkPQlyzE/edit?usp=sharing">Presentation</a> | Locally Consistent Deformable Convolution|
